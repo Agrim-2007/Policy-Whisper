@@ -1,0 +1,6 @@
+**Information Security Policy**
+
+1. **Passwords**: Passwords must be at least 12 characters long, include special characters, and be changed every 90 days.
+2. **Device Security**: All company laptops must have full-disk encryption enabled. Unattended devices must be locked.
+3. **Access Control**: Access to sensitive data is granted on a need-to-know basis. Multi-factor authentication (MFA) is mandatory for all internal systems.
+4. **Incident Reporting**: Any suspected security breach must be reported to the IT Security team immediately via the emergency hotline.
