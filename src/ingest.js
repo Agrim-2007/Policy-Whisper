@@ -32,6 +32,7 @@ async function ingest() {
         }
     }
 
+    
     fs.writeFileSync(VECTOR_STORE_PATH, JSON.stringify(vectorStore, null, 2));
     console.log(`Ingestion complete. Saved ${vectorStore.length} documents to ${VECTOR_STORE_PATH}`);
 }
